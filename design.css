@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, sans-serif;
+    background: white;
+    color: black;
+  }
+  
+
+  .navbar{
+    background:#d6c0c0;
+    padding:18px;
+  }
+  
+  .navbar-brand,
+  .nav-link{
+    color:white;
+  }
+  
+
+  .main-title{
+    margin-top:40px;
+    font-size:58px;
+  }
+  
+  .main-title2{
+    font-size:58px;
+  }
+  
+  .name-highlight{
+    color:#b79a9a;
+  }
+  
+  .sub-title{
+    font-size:46px;
+  }
+  
+  .intro-text{
+    max-width:520px;
+    margin-top:20px;
+  }
+  
+
+  .profile-image{
+    border-radius:8px;
+    width:360px;
+  }
+  
+
+  .button-area{
+    margin-top:25px;
+  }
+  
+  .custom-btn{
+    background:#d6c0c0;
+    color:black;
+    padding:12px 22px;
+    border-radius:20px;
+    text-decoration:none;
+    margin-right:10px;
+    display:inline-block;
+    border:none;
+  }
+  
+
+  .page-footer{
+    background:white;
+    color:black;
+    padding:28px;
+    margin-top:60px;
+    border-top:1px solid #ddd;
+  }
+  
+  .footer-line{
+    margin:0 0 18px 0;
+  }
+  
+  .page-footer a{
+    color:#0b58ff;
+  }
+  
+  .footer-actions button{
+    margin:5px;
+  }
+  
+  .email-box{
+    margin-top:10px;
+    display:none;
+  }
+  
+
+  .project-table th,
+  .project-table td{
+    background:white;
+    color:black;
+  }
+  
+
+  body.dark{
+    background:#220202;
+    color:white;
+  }
+  
+  body.dark .navbar{
+    background:#4b0c0c;
+  }
+  
+  body.dark .page-footer{
+    background:#4b0c0c;
+    color:white;
+  }
+  
+  body.dark .page-footer a{
+    color:white;
+  }
+  
+  body.dark .name-highlight{
+    color:#ff6b6b;
+  }
+  
+  body.dark .project-table th,
+  body.dark .project-table td{
+    background:#1f1f1f;
+    color:white;
+  }
